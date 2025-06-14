@@ -13,7 +13,4 @@
   <artifactId>lib-rcm-domain-outbox</artifactId>
   <packaging>jar</packaging>
 
-  <dependencies>
-  </dependencies>
-
 </project>
